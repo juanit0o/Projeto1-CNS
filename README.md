@@ -1,2 +1,2 @@
-# Projeto1-CNS
-First Project of Computational Numerical Statistics
+# CNS repo
+Repository with the 3 Computational Numerical Statistics
